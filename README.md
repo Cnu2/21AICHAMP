@@ -5,6 +5,10 @@
 - 딥러닝 라이브러리 PyTorch 사용
 - 프로그래밍 언어 Python 사용
 
-## 전처리
+## 전처리(Pre-Processing)
+- 이미지 데이터가 약 200개로 확인 결과 Data Cleansing을 적용하진 않음
 - train_output.csv파일에서 Class를 숫자로 변환.
-- 
+- 모델 훈련 및 추론을 위해 k = 5인 k-fold를 사용
+
+## 탐색(EDA)
+
